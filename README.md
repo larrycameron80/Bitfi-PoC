@@ -8,7 +8,7 @@ The [Bitfi](https://bitfi.com) website is vulnerable to a few attacks;
 
  - XSS
  - SQLi
- - Bad char injection
+ - Email injection
 
 # Initial Report
 
