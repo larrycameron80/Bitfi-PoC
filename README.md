@@ -1,2 +1,15 @@
 # Bitfi-PoC
 Proof of concept for Bitfi website attacks
+
+
+# What attacks?
+
+The [Bitfi](https://bitfi.com) website is vulnerable to a few attacks;
+
+ - XSS
+ - SQLi
+ - Bad char injection
+
+# Initial Report
+
+The initial report was sent via email to Bitfi support team. If there is no response or no fix by 08/13/2018 I will release PoC code for the attacks publically.
